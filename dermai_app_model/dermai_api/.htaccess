@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Auth routes
+RewriteRule ^auth/register$ auth/auth_handler.php [L,QSA]
+RewriteRule ^auth/login$ auth/auth_handler.php [L,QSA]
+RewriteRule ^auth/logout$ auth/auth_handler.php [L,QSA]
+RewriteRule ^auth/validate$ auth/auth_handler.php [L,QSA]
+RewriteRule ^auth/user$ auth/auth_handler.php [L,QSA]
+
+# Redirect all other requests to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L,QSA] 

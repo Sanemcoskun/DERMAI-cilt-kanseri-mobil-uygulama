@@ -1,0 +1,522 @@
+{
+  "tr": {
+    "categories": [
+      {
+        "id": "skincare",
+        "title": "Cilt Bakımı",
+        "icon": "spa_outlined",
+        "color": "#28A745",
+        "tips": [
+          {
+            "title": "Günlük Temizlik Rutini",
+            "description": "Sabah ve akşam cildinizi nazikçe temizleyin",
+            "details": "Cildinizin tipine uygun temizleyici kullanarak günde iki kez yüzünüzü yıkayın. Sıcak su yerine ılık su tercih edin. Bu, cildinizin doğal nem dengesini korur ve irritasyonu önler.",
+            "steps": [
+              "Ellerinizi antibakteriyel sabunla temizleyin",
+              "Yüzünüzü ılık suyla (sıcak değil) ıslatın",
+              "Temizleyiciyi nazikçe dairesel hareketle masaj yaparak uygulayın",
+              "Bol suyla durulayın ve artık kalmadığından emin olun",
+              "Yumuşak ve temiz bir havlu ile nazikçe kurutun"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Günde 2 kez"
+          },
+          {
+            "title": "Nemlendirme",
+            "description": "Cilt tipinize uygun nemlendirici kullanın",
+            "details": "Temizlik sonrası cildiniz hala nemli iken nemlendirici uygulayın. Bu, nemlendiricinin daha iyi emilmesini sağlar ve cildinizin nem bariyerini güçlendirir.",
+            "steps": [
+              "Temizlik sonrası cildiniz nemli iken uygulayın",
+              "Yüzünüze eşit miktarda sürün ve gözleri kaçının",
+              "Boyun ve dekolte bölgesini unutmayın",
+              "Nazikçe yukarı doğru masaj yaparak emilmesini sağlayın",
+              "Uygulamadan sonra 10-15 dakika bekleyin"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Günde 2 kez"
+          },
+          {
+            "title": "Haftalık Peeling",
+            "description": "Ölü deri hücrelerini nazikçe temizleyin",
+            "details": "Haftada 1-2 kez nazik peeling yaparak cildinizin yenilenmesini destekleyin. Hassas ciltler için haftada bir kez yeterlidir. Aşırı peeling ciltte irritasyona neden olabilir.",
+            "steps": [
+              "Yüzünüzü temizleyin ve kurutun",
+              "Peeling ürününü nemli cilde nazikçe uygulayın",
+              "Dairesel hareketlerle 1-2 dakika masaj yapın",
+              "Bol ılık suyla durulayın",
+              "Mutlaka nemlendirici uygulayın"
+            ],
+            "importance": "Orta",
+            "frequency": "Haftada 1-2 kez"
+          },
+          {
+            "title": "Gece Bakım Rutini",
+            "description": "Gece cildinizin onarımını destekleyin",
+            "details": "Gece cildiniz kendini onarır ve yeniler. Bu süreci desteklemek için özel gece bakım ürünleri kullanın ve cildinizi besleyin.",
+            "steps": [
+              "Makyajınızı temizleyici ile çıkarın",
+              "Yüzünüzü nazikçe yıkayın",
+              "Serum veya gece kremi uygulayın",
+              "Göz çevresi için özel krem kullanın",
+              "Ürünlerin emilmesi için 20 dakika bekleyin"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Her gece"
+          }
+        ]
+      },
+      {
+        "id": "sun_protection",
+        "title": "Güneş Koruması",
+        "icon": "wb_sunny_outlined",
+        "color": "#FF9800",
+        "tips": [
+          {
+            "title": "SPF 30+ Güneş Kremi",
+            "description": "Her gün güneş kremi kullanın",
+            "details": "Güneş kremi cildinizi UV-A ve UV-B ışınlarından korur. Bulutlu havalarda bile UV ışınları cildinize zarar verebilir. Yaşlanma belirtilerinin %80'i güneş hasarından kaynaklanır.",
+            "steps": [
+              "Çıkmadan 30 dakika önce uygulayın",
+              "Yüz, boyun, kulaklar ve dudaklarınızı koruyun",
+              "Her 2 saatte bir yenileyin",
+              "Yüzdükten veya terledikten sonra tekrar sürün",
+              "Su geçirmez formülleri tercih edin"
+            ],
+            "importance": "Çok Yüksek",
+            "frequency": "Her gün"
+          },
+          {
+            "title": "Güneş Gözlüğü",
+            "description": "UV korumalı güneş gözlüğü takın",
+            "details": "Güneş gözlüğü sadece göz çevresi değil, tüm yüz bölgesini korumada yardımcı olur. %100 UV koruması olan gözlükleri tercih edin ve göz çevresi kırışıklarını önleyin.",
+            "steps": [
+              "%100 UV koruması olan gözlük seçin",
+              "Büyük çerçeveli modelleri tercih edin",
+              "Güneşli havalarda mutlaka takın",
+              "Yansımalı yüzeylerde (kar, su, kum) ekstra dikkatli olun",
+              "Polarize camları düşünün"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Güneşli günlerde"
+          },
+          {
+            "title": "Gölgede Kalma",
+            "description": "Öğle saatlerinde gölgede kalın",
+            "details": "Saat 10:00-16:00 arası güneş ışınları en güçlü olduğu zamandır. Bu saatlerde mümkün olduğunca gölgede kalın ve direkt güneş ışığından kaçının.",
+            "steps": [
+              "Öğle saatlerinde (10-16) dışarı çıkmayı sınırlayın",
+              "Gölgeli alanları tercih edin",
+              "Şemsiye veya tente kullanın",
+              "Uzun kollu ve kapalı giysiler tercih edin",
+              "Şapka kullanmayı unutmayın"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Güneşli günlerde"
+          },
+          {
+            "title": "After Sun Bakımı",
+            "description": "Güneşe maruz kaldıktan sonra cildinizi sakinleştirin",
+            "details": "Güneşe maruz kaldıktan sonra cildiniz ekstra bakıma ihtiyaç duyar. Sakinleştirici ve onarıcı ürünler kullanarak cildinizin iyileşmesini destekleyin.",
+            "steps": [
+              "Serin duş alın (sıcak su kaçının)",
+              "Aloe vera jeli veya after sun ürünü kullanın",
+              "Bol miktarda su için",
+              "Cildinizi ovmayın, nazikçe kurutun",
+              "Extra nemlendirici uygulayın"
+            ],
+            "importance": "Orta",
+            "frequency": "Güneş sonrası"
+          }
+        ]
+      },
+      {
+        "id": "nutrition",
+        "title": "Beslenme",
+        "icon": "restaurant_outlined",
+        "color": "#22C55E",
+        "tips": [
+          {
+            "title": "Antioksidan Besinler",
+            "description": "Meyve ve sebze tüketiminizi artırın",
+            "details": "Antioksidanlar serbest radikalleri nötralize ederek cildinizi korur ve yaşlanmayı yavaşlatır. Özellikle C ve E vitamini, beta karoten gibi antioksidanlar cilt sağlığı için önemlidir.",
+            "steps": [
+              "Günde en az 5 porsiyon meyve-sebze tüketin",
+              "Renkli sebzeleri tercih edin (kırmızı, yeşil, turuncu)",
+              "Mevsimlik ve taze ürünleri seçin",
+              "Çiğ ve pişmiş karışımı yapın",
+              "Çeşitliliği artırın - her renk farklı besin değeri"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Her gün"
+          },
+          {
+            "title": "Omega-3 Yağ Asitleri",
+            "description": "Balık, ceviz ve keten tohumu tüketin",
+            "details": "Omega-3 yağ asitleri cildin nem dengesini korur, iltihaplanmayı azaltır ve cildin esnekliğini artırır. EPA ve DHA özellikle cilt sağlığı için önemlidir.",
+            "steps": [
+              "Haftada 2-3 kez yağlı balık (somon, uskumru) tüketin",
+              "Günlük bir avuç ceviz, badem yiyin",
+              "Keten tohumu veya chia tohumu yoğurt/smoothie'ye ekleyin",
+              "Balık yağı desteği düşünün",
+              "Avokado ve zeytinyağını tercih edin"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Haftada 3-4 kez"
+          },
+          {
+            "title": "Yeterli Su Tüketimi",
+            "description": "Günde en az 8-10 bardak su için",
+            "details": "Yeterli su tüketimi cildinizin nemli kalmasını sağlar, toksinlerin atılmasına yardımcı olur ve cildinizin pürüzsüz görünmesini destekler. Dehidrasyon cilt kuruluğuna ve erken yaşlanmaya neden olur.",
+            "steps": [
+              "Sabah uyandığınızda bir bardak su için",
+              "Yemeklerden 30 dakika önce su tüketin",
+              "Yanınızda su şişesi bulundurun",
+              "Meyve suları yerine saf su tercih edin",
+              "Kafein ve alkol alımınızı sınırlayın"
+            ],
+            "importance": "Çok Yüksek",
+            "frequency": "Her gün"
+          },
+          {
+            "title": "Probiyotik Gıdalar",
+            "description": "Bağırsak sağlığınızı destekleyin",
+            "details": "Sağlıklı bağırsak florası cilt sağlığını direkt etkiler. Probiyotik gıdalar bağırsak mikrobiyomunu destekleyerek ciltteki iltihaplanmayı azaltır.",
+            "steps": [
+              "Günlük yoğurt veya kefir tüketin",
+              "Fermente sebzeler (turşu, kimchi) ekleyin",
+              "Prebiyotik lifli gıdaları artırın",
+              "İşlenmiş gıdaları sınırlayın",
+              "Çeşitli probiyotik kaynakları kullanın"
+            ],
+            "importance": "Orta",
+            "frequency": "Her gün"
+          }
+        ]
+      },
+      {
+        "id": "lifestyle",
+        "title": "Yaşam Tarzı",
+        "icon": "self_improvement_outlined",
+        "color": "#7C3AED",
+        "tips": [
+          {
+            "title": "Kaliteli Uyku",
+            "description": "Günde 7-9 saat kaliteli uyku alın",
+            "details": "Uyku sırasında cildiniz kendini onarır ve yeniler. Büyüme hormonu uyku sırasında salgılanır ve cilt hücrelerinin yenilenmesini sağlar. Yetersiz uyku ciltte solgunluk ve erken yaşlanmaya neden olur.",
+            "steps": [
+              "Her gün aynı saatte yatın ve kalkın",
+              "Yatmadan 2-3 saat önce yemek yemeyin",
+              "Elektronik cihazları yatmadan 1 saat önce kapatın",
+              "Yatak odanızı serin (18-20°C) ve karanlık tutun",
+              "Rahatlatıcı bir gece rutini oluşturun"
+            ],
+            "importance": "Çok Yüksek",
+            "frequency": "Her gece"
+          },
+          {
+            "title": "Stres Yönetimi",
+            "description": "Stres seviyenizi kontrol altında tutun",
+            "details": "Kronik stres kortizol hormonunu artırır, bu da cilt problemlerine, akne oluşumuna ve erken yaşlanmaya neden olur. Etkili stres yönetimi teknikleri öğrenmek cilt sağlığı için kritiktir.",
+            "steps": [
+              "Günlük 10-15 dakika meditasyon yapın",
+              "Derin nefes egzersizleri uygulayın",
+              "Düzenli egzersiz rutini oluşturun",
+              "Hobiler ve sosyal aktivitelere zaman ayırın",
+              "Gerektiğinde profesyonel destek alın"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Her gün"
+          },
+          {
+            "title": "Düzenli Egzersiz",
+            "description": "Haftada en az 150 dakika egzersiz yapın",
+            "details": "Egzersiz kan dolaşımını artırarak cildinize daha fazla oksijen ve besin taşınmasını sağlar. Ayrıca terleme yoluyla gözeneklerin temizlenmesine yardımcı olur ve stres hormonu seviyelerini düşürür.",
+            "steps": [
+              "Haftada 150 dakika orta şiddetli kardiyovasküler egzersiz",
+              "Kardiyo ve kuvvet antrenmanını birleştirin",
+              "Egzersiz sonrası mutlaka duş alın",
+              "Nefes alan spor kıyafetleri tercih edin",
+              "Egzersiz öncesi ve sonrası bol su için"
+            ],
+            "importance": "Yüksek",
+            "frequency": "Haftada 4-5 kez"
+          },
+          {
+            "title": "Sigara ve Alkol",
+            "description": "Sigara ve aşırı alkol tüketiminden kaçının",
+            "details": "Sigara cildin kan dolaşımını azaltır, kolajen üretimini bozar ve erken yaşlanmaya neden olur. Alkol ise cildi kurutur ve iltihaplanmaya yol açar.",
+            "steps": [
+              "Sigarayı tamamen bırakın",
+              "Alkol tüketimini sınırlayın (kadınlar için günde 1, erkekler için 2 kadeh)",
+              "Sigara bırakma desteği alın",
+              "Sosyal aktivitelerde alkol alternatiflerini tercih edin",
+              "Cilt üzerindeki olumlu değişimleri takip edin"
+            ],
+            "importance": "Çok Yüksek",
+            "frequency": "Sürekli"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "categories": [
+      {
+        "id": "skincare",
+        "title": "Skincare",
+        "icon": "spa_outlined",
+        "color": "#28A745",
+        "tips": [
+          {
+            "title": "Daily Cleansing Routine",
+            "description": "Gently cleanse your skin morning and evening",
+            "details": "Wash your face twice daily using a cleanser suitable for your skin type. Prefer lukewarm water over hot water. This preserves your skin's natural moisture balance and prevents irritation.",
+            "steps": [
+              "Clean your hands with antibacterial soap",
+              "Wet your face with lukewarm (not hot) water",
+              "Apply cleanser with gentle circular motions",
+              "Rinse thoroughly ensuring no residue remains",
+              "Pat dry gently with a soft, clean towel"
+            ],
+            "importance": "High",
+            "frequency": "Twice daily"
+          },
+          {
+            "title": "Moisturizing",
+            "description": "Use a moisturizer suitable for your skin type",
+            "details": "Apply moisturizer while your skin is still damp after cleansing. This allows better absorption and strengthens your skin's moisture barrier.",
+            "steps": [
+              "Apply while skin is still damp after cleansing",
+              "Apply evenly to face, avoiding the eyes",
+              "Don't forget neck and décolletage area",
+              "Gently massage upward for absorption",
+              "Wait 10-15 minutes after application"
+            ],
+            "importance": "High",
+            "frequency": "Twice daily"
+          },
+          {
+            "title": "Weekly Exfoliation",
+            "description": "Gently remove dead skin cells",
+            "details": "Support your skin's renewal with gentle exfoliation 1-2 times per week. Once weekly is sufficient for sensitive skin. Over-exfoliation can cause skin irritation.",
+            "steps": [
+              "Cleanse and dry your face",
+              "Apply exfoliant gently to damp skin",
+              "Massage in circular motions for 1-2 minutes",
+              "Rinse with lukewarm water",
+              "Always apply moisturizer afterward"
+            ],
+            "importance": "Medium",
+            "frequency": "1-2 times weekly"
+          },
+          {
+            "title": "Night Care Routine",
+            "description": "Support your skin's repair during sleep",
+            "details": "Your skin repairs and renews itself at night. Support this process with special night care products and nourish your skin.",
+            "steps": [
+              "Remove makeup with cleanser",
+              "Gently wash your face",
+              "Apply serum or night cream",
+              "Use special cream for eye area",
+              "Wait 20 minutes for products to absorb"
+            ],
+            "importance": "High",
+            "frequency": "Every night"
+          }
+        ]
+      },
+      {
+        "id": "sun_protection",
+        "title": "Sun Protection",
+        "icon": "wb_sunny_outlined",
+        "color": "#FF9800",
+        "tips": [
+          {
+            "title": "SPF 30+ Sunscreen",
+            "description": "Use sunscreen every day",
+            "details": "Sunscreen protects your skin from UV-A and UV-B rays. Even on cloudy days, UV rays can damage your skin. 80% of aging signs come from sun damage.",
+            "steps": [
+              "Apply 30 minutes before going outside",
+              "Protect face, neck, ears, and lips",
+              "Reapply every 2 hours",
+              "Reapply after swimming or sweating",
+              "Choose water-resistant formulas"
+            ],
+            "importance": "Very High",
+            "frequency": "Daily"
+          },
+          {
+            "title": "Sunglasses",
+            "description": "Wear UV-protective sunglasses",
+            "details": "Sunglasses help protect not only the eye area but the entire facial region. Choose glasses with 100% UV protection and prevent crow's feet.",
+            "steps": [
+              "Choose glasses with 100% UV protection",
+              "Prefer large-framed models",
+              "Always wear on sunny days",
+              "Be extra careful on reflective surfaces (snow, water, sand)",
+              "Consider polarized lenses"
+            ],
+            "importance": "High",
+            "frequency": "On sunny days"
+          },
+          {
+            "title": "Stay in Shade",
+            "description": "Stay in shade during midday hours",
+            "details": "Sun rays are strongest between 10:00-16:00. Stay in shade as much as possible during these hours and avoid direct sunlight.",
+            "steps": [
+              "Limit outdoor activities during midday (10-16)",
+              "Choose shaded areas",
+              "Use umbrellas or canopies",
+              "Prefer long-sleeved and covered clothing",
+              "Don't forget to wear a hat"
+            ],
+            "importance": "High",
+            "frequency": "On sunny days"
+          },
+          {
+            "title": "After-Sun Care",
+            "description": "Soothe your skin after sun exposure",
+            "details": "Your skin needs extra care after sun exposure. Support your skin's recovery with soothing and repairing products.",
+            "steps": [
+              "Take a cool shower (avoid hot water)",
+              "Use aloe vera gel or after-sun products",
+              "Drink plenty of water",
+              "Don't rub your skin, pat dry gently",
+              "Apply extra moisturizer"
+            ],
+            "importance": "Medium",
+            "frequency": "After sun exposure"
+          }
+        ]
+      },
+      {
+        "id": "nutrition",
+        "title": "Nutrition",
+        "icon": "restaurant_outlined",
+        "color": "#22C55E",
+        "tips": [
+          {
+            "title": "Antioxidant Foods",
+            "description": "Increase your fruit and vegetable consumption",
+            "details": "Antioxidants neutralize free radicals, protecting your skin and slowing aging. Vitamins C and E, and beta-carotene are particularly important for skin health.",
+            "steps": [
+              "Consume at least 5 servings of fruits and vegetables daily",
+              "Choose colorful vegetables (red, green, orange)",
+              "Select seasonal and fresh produce",
+              "Mix raw and cooked options",
+              "Increase variety - each color offers different nutrients"
+            ],
+            "importance": "High",
+            "frequency": "Daily"
+          },
+          {
+            "title": "Omega-3 Fatty Acids",
+            "description": "Consume fish, walnuts, and flaxseed",
+            "details": "Omega-3 fatty acids maintain skin moisture balance, reduce inflammation, and increase skin elasticity. EPA and DHA are especially important for skin health.",
+            "steps": [
+              "Consume fatty fish 2-3 times weekly (salmon, mackerel)",
+              "Eat a handful of walnuts or almonds daily",
+              "Add flaxseed or chia seeds to yogurt/smoothies",
+              "Consider fish oil supplements",
+              "Choose avocado and olive oil"
+            ],
+            "importance": "High",
+            "frequency": "3-4 times weekly"
+          },
+          {
+            "title": "Adequate Water Intake",
+            "description": "Drink at least 8-10 glasses of water daily",
+            "details": "Adequate water intake keeps your skin hydrated, helps eliminate toxins, and supports smooth skin appearance. Dehydration causes skin dryness and premature aging.",
+            "steps": [
+              "Drink a glass of water when you wake up",
+              "Drink water 30 minutes before meals",
+              "Keep a water bottle with you",
+              "Choose plain water over fruit juices",
+              "Limit caffeine and alcohol intake"
+            ],
+            "importance": "Very High",
+            "frequency": "Daily"
+          },
+          {
+            "title": "Probiotic Foods",
+            "description": "Support your gut health",
+            "details": "Healthy gut flora directly affects skin health. Probiotic foods support gut microbiome and reduce skin inflammation.",
+            "steps": [
+              "Consume yogurt or kefir daily",
+              "Add fermented vegetables (pickles, kimchi)",
+              "Increase prebiotic fiber foods",
+              "Limit processed foods",
+              "Use various probiotic sources"
+            ],
+            "importance": "Medium",
+            "frequency": "Daily"
+          }
+        ]
+      },
+      {
+        "id": "lifestyle",
+        "title": "Lifestyle",
+        "icon": "self_improvement_outlined",
+        "color": "#7C3AED",
+        "tips": [
+          {
+            "title": "Quality Sleep",
+            "description": "Get 7-9 hours of quality sleep daily",
+            "details": "Your skin repairs and renews itself during sleep. Growth hormone is released during sleep, enabling skin cell renewal. Insufficient sleep causes skin dullness and premature aging.",
+            "steps": [
+              "Go to bed and wake up at the same time daily",
+              "Don't eat 2-3 hours before bedtime",
+              "Turn off electronic devices 1 hour before bed",
+              "Keep your bedroom cool (18-20°C) and dark",
+              "Create a relaxing bedtime routine"
+            ],
+            "importance": "Very High",
+            "frequency": "Every night"
+          },
+          {
+            "title": "Stress Management",
+            "description": "Keep your stress levels under control",
+            "details": "Chronic stress increases cortisol hormone, leading to skin problems, acne formation, and premature aging. Learning effective stress management techniques is critical for skin health.",
+            "steps": [
+              "Meditate for 10-15 minutes daily",
+              "Practice deep breathing exercises",
+              "Establish a regular exercise routine",
+              "Make time for hobbies and social activities",
+              "Seek professional support when needed"
+            ],
+            "importance": "High",
+            "frequency": "Daily"
+          },
+          {
+            "title": "Regular Exercise",
+            "description": "Exercise at least 150 minutes weekly",
+            "details": "Exercise increases blood circulation, delivering more oxygen and nutrients to your skin. It also helps clean pores through sweating and reduces stress hormone levels.",
+            "steps": [
+              "150 minutes of moderate cardiovascular exercise weekly",
+              "Combine cardio and strength training",
+              "Always shower after exercise",
+              "Choose breathable sportswear",
+              "Drink plenty of water before and after exercise"
+            ],
+            "importance": "High",
+            "frequency": "4-5 times weekly"
+          },
+          {
+            "title": "Smoking and Alcohol",
+            "description": "Avoid smoking and excessive alcohol consumption",
+            "details": "Smoking reduces skin blood circulation, disrupts collagen production, and causes premature aging. Alcohol dehydrates skin and causes inflammation.",
+            "steps": [
+              "Quit smoking completely",
+              "Limit alcohol consumption (1 drink for women, 2 for men daily)",
+              "Get smoking cessation support",
+              "Choose alcohol alternatives in social activities",
+              "Track positive changes on your skin"
+            ],
+            "importance": "Very High",
+            "frequency": "Continuous"
+          }
+        ]
+      }
+    ]
+  }
+} 

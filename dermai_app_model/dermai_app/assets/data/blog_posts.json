@@ -1,0 +1,502 @@
+{
+  "tr": {
+    "posts": [
+      {
+        "id": "1",
+        "title": "Cilt Kanseri Erken Teşhisi: Bilmeniz Gerekenler",
+        "excerpt": "Cilt kanserinin erken teşhisinde nelere dikkat etmeli, hangi belirtileri göz ardı etmemeliyiz?",
+        "category": "Hastalıklar",
+        "author": "DermAI Editör Ekibi",
+        "readTime": "5 dk",
+        "date": "15 Aralık 2024",
+        "imageUrl": "assets/images/blog1.jpg",
+        "isFeatured": true,
+        "content": {
+          "sections": [
+            {
+              "title": "Cilt Kanseri Nedir?",
+              "type": "paragraph",
+              "text": "Cilt kanseri, ciltteki hücrelerin kontrolsüz büyümesi sonucu oluşan malign tümörlerdir. En yaygın kanser türlerinden biri olan cilt kanseri, erken teşhis edildiğinde tedavi edilebilir."
+            },
+            {
+              "title": "Cilt Kanseri Türleri",
+              "type": "bullet_list",
+              "items": [
+                "Bazal hücreli karsinom (en yaygın)",
+                "Skuamöz hücreli karsinom",
+                "Melanom (en tehlikeli)"
+              ]
+            },
+            {
+              "title": "Dikkat Edilmesi Gereken Belirtiler",
+              "type": "bullet_list",
+              "items": [
+                "Rengi, şekli veya boyutu değişen benler",
+                "Kanamaya eğilimli yeni çıkıntılar",
+                "İyileşmeyen yaralar",
+                "Asimetrik, düzensiz kenarlı benler"
+              ]
+            },
+            {
+              "title": "ABCDE Kuralı",
+              "type": "bullet_list",
+              "items": [
+                "A - Asimetri: Benin bir yarısı diğerinden farklı",
+                "B - Border (Kenar): Düzensiz, girintili çıkıntılı kenarlar",
+                "C - Color (Renk): Kahverengi, siyah, kırmızı, beyaz karışımı",
+                "D - Diameter (Çap): 6mm'den büyük benler",
+                "E - Evolving (Değişim): Zaman içinde değişen benler"
+              ]
+            },
+            {
+              "title": "Ne Zaman Doktora Başvurmalısınız?",
+              "type": "paragraph",
+              "text": "Cildinizde herhangi bir değişiklik fark ettiğinizde, özellikle yukarıda belirtilen ABCDE kriterlerinden herhangi birini gözlemlediğinizde dermatolog kontrolü yaptırmalısınız."
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": "Günlük Cilt Bakım Rutini: Adım Adım Rehber",
+        "excerpt": "Sağlıklı cilt için günlük bakım rutininizde bulunması gereken 5 temel adım.",
+        "category": "Cilt Bakımı",
+        "author": "DermAI Editör Ekibi",
+        "readTime": "7 dk",
+        "date": "12 Aralık 2024",
+        "imageUrl": "assets/images/blog2.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "Sabah Rutini",
+              "type": "numbered_list",
+              "items": [
+                "Yüzünüzü ılık suyla yıkayın",
+                "Cildinize uygun temizleyici kullanın",
+                "Tonik uygulayın",
+                "Nemlendirici sürün",
+                "SPF 30+ güneş kremi kullanın"
+              ]
+            },
+            {
+              "title": "Akşam Rutini",
+              "type": "numbered_list",
+              "items": [
+                "Makyajınızı temizleyin",
+                "Çifte temizlik yapın",
+                "Serum uygulayın",
+                "Gece kremi kullanın",
+                "Göz çevresi bakımı yapın"
+              ]
+            },
+            {
+              "title": "Haftalık Bakım",
+              "type": "bullet_list",
+              "items": [
+                "Haftada 1-2 kez peeling",
+                "Haftada 1 kez besleyici maske",
+                "Düzenli cilt kontrolü"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": "SPF Nedir? Doğru Güneş Kremi Nasıl Seçilir?",
+        "excerpt": "Güneş kremlerindeki SPF değerleri ne anlama gelir ve cildiniz için en uygun olanı nasıl seçersiniz?",
+        "category": "Güneş Koruması",
+        "author": "DermAI Editör Ekibi",
+        "readTime": "4 dk",
+        "date": "10 Aralık 2024",
+        "imageUrl": "assets/images/blog3.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "SPF Nedir?",
+              "type": "paragraph",
+              "text": "SPF (Sun Protection Factor), güneş kreminin UVB ışınlarına karşı koruma faktörünü belirtir. SPF 30, cildinizin doğal koruma süresini 30 kat artırır."
+            },
+            {
+              "title": "SPF Değerleri",
+              "type": "bullet_list",
+              "items": [
+                "SPF 15: %93 UVB koruması",
+                "SPF 30: %97 UVB koruması",
+                "SPF 50: %98 UVB koruması"
+              ]
+            },
+            {
+              "title": "Doğru Güneş Kremi Seçimi",
+              "type": "bullet_list",
+              "items": [
+                "Geniş spektrum koruma (UVA + UVB)",
+                "Cilt tipinize uygun formül",
+                "Su geçirmez özellik",
+                "Minimum SPF 30"
+              ]
+            },
+            {
+              "title": "Uygulama İpuçları",
+              "type": "bullet_list",
+              "items": [
+                "Güneşe çıkmadan 15-30 dakika önce sürün",
+                "2 saatte bir yenileyin",
+                "Bol miktarda kullanın",
+                "Bulutlu havalarda da kullanın"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "title": "Cilt Sağlığını Destekleyen 10 Süper Besin",
+        "excerpt": "Cildinizin sağlığını desteklemek için tüketmeniz gereken vitamin ve mineral açısından zengin besinler.",
+        "category": "Beslenme",
+        "author": "DermAI Editör Ekibi",
+        "readTime": "6 dk",
+        "date": "8 Aralık 2024",
+        "imageUrl": "assets/images/blog4.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "Cilt Dostu Süper Besinler",
+              "type": "subtitle_paragraph",
+              "items": [
+                {
+                  "subtitle": "1. Avokado",
+                  "text": "E vitamini ve sağlıklı yağlar açısından zengin. Cildin nem dengesini korur."
+                },
+                {
+                  "subtitle": "2. Somon",
+                  "text": "Omega-3 yağ asitleri iltihabı azaltır ve cildi besler."
+                },
+                {
+                  "subtitle": "3. Çilek",
+                  "text": "C vitamini kollajen üretimini destekler."
+                },
+                {
+                  "subtitle": "4. Badem",
+                  "text": "E vitamini ve çinko cildi korur."
+                },
+                {
+                  "subtitle": "5. Ispanak",
+                  "text": "A vitamini, demir ve antioksidanlarla dolu."
+                }
+              ]
+            },
+            {
+              "title": "Günlük Öneriler",
+              "type": "bullet_list",
+              "items": [
+                "Günde en az 8 bardak su için",
+                "Renkli sebze ve meyveleri tercih edin",
+                "İşlenmiş gıdalardan kaçının",
+                "Şeker tüketimini sınırlayın"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": "Stres ve Cilt Sağlığı: Zihinsel Sağlığın Etkisi",
+        "excerpt": "Stresin cilt üzerindeki olumsuz etkileri ve stresle başa çıkmanın yolları.",
+        "category": "Yaşam Tarzı",
+        "author": "DermAI Editör Ekibi",
+        "readTime": "8 dk",
+        "date": "5 Aralık 2024",
+        "imageUrl": "assets/images/blog5.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "Stresin Cilt Üzerindeki Etkileri",
+              "type": "bullet_list",
+              "items": [
+                "Akne ve sivilce oluşumu",
+                "Erken yaşlanma belirtileri",
+                "Ciltte kuruluk ve hassasiyet",
+                "Kaşıntı ve kızarıklık"
+              ]
+            },
+            {
+              "title": "Stresle Başa Çıkma Yolları",
+              "type": "bullet_list",
+              "items": [
+                "Düzenli egzersiz yapın",
+                "Yeterli uyku alın (7-8 saat)",
+                "Meditasyon ve nefes teknikleri",
+                "Sevdiğiniz hobilerle vakit geçirin"
+              ]
+            },
+            {
+              "title": "Stresi Azaltan Cilt Bakımı",
+              "type": "bullet_list",
+              "items": [
+                "Yatıştırıcı maskeler uygulayın",
+                "Yüz masajı yapın",
+                "Aromaterapi kullanın",
+                "Düzenli bakım rutini oluşturun"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "en": {
+    "posts": [
+      {
+        "id": "1",
+        "title": "Early Detection of Skin Cancer: What You Need to Know",
+        "excerpt": "What should you pay attention to in early detection of skin cancer, and which symptoms should not be ignored?",
+        "category": "Diseases",
+        "author": "DermAI Editorial Team",
+        "readTime": "5 min",
+        "date": "December 15, 2024",
+        "imageUrl": "assets/images/blog1.jpg",
+        "isFeatured": true,
+        "content": {
+          "sections": [
+            {
+              "title": "What is Skin Cancer?",
+              "type": "paragraph",
+              "text": "Skin cancer is a malignant tumor that occurs as a result of uncontrolled growth of skin cells. Being one of the most common types of cancer, skin cancer is treatable when diagnosed early."
+            },
+            {
+              "title": "Types of Skin Cancer",
+              "type": "bullet_list",
+              "items": [
+                "Basal cell carcinoma (most common)",
+                "Squamous cell carcinoma",
+                "Melanoma (most dangerous)"
+              ]
+            },
+            {
+              "title": "Warning Signs to Watch For",
+              "type": "bullet_list",
+              "items": [
+                "Moles that change color, shape, or size",
+                "New growths that tend to bleed",
+                "Non-healing wounds",
+                "Asymmetric moles with irregular borders"
+              ]
+            },
+            {
+              "title": "ABCDE Rule",
+              "type": "bullet_list",
+              "items": [
+                "A - Asymmetry: One half of the mole differs from the other",
+                "B - Border: Irregular, scalloped, or poorly defined edges",
+                "C - Color: Mix of brown, black, red, white colors",
+                "D - Diameter: Moles larger than 6mm",
+                "E - Evolving: Moles that change over time"
+              ]
+            },
+            {
+              "title": "When to See a Doctor?",
+              "type": "paragraph",
+              "text": "When you notice any changes in your skin, especially if you observe any of the ABCDE criteria mentioned above, you should have a dermatological examination."
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": "Daily Skincare Routine: Step-by-Step Guide",
+        "excerpt": "5 essential steps that should be included in your daily skincare routine for healthy skin.",
+        "category": "Skincare",
+        "author": "DermAI Editorial Team",
+        "readTime": "7 min",
+        "date": "December 12, 2024",
+        "imageUrl": "assets/images/blog2.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "Morning Routine",
+              "type": "numbered_list",
+              "items": [
+                "Wash your face with lukewarm water",
+                "Use a cleanser suitable for your skin",
+                "Apply toner",
+                "Apply moisturizer",
+                "Use SPF 30+ sunscreen"
+              ]
+            },
+            {
+              "title": "Evening Routine",
+              "type": "numbered_list",
+              "items": [
+                "Remove your makeup",
+                "Double cleanse",
+                "Apply serum",
+                "Use night cream",
+                "Apply eye area care"
+              ]
+            },
+            {
+              "title": "Weekly Care",
+              "type": "bullet_list",
+              "items": [
+                "Exfoliate 1-2 times per week",
+                "Nourishing mask once a week",
+                "Regular skin check"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": "What is SPF? How to Choose the Right Sunscreen?",
+        "excerpt": "What do SPF values in sunscreens mean and how do you choose the most suitable one for your skin?",
+        "category": "Sun Protection",
+        "author": "DermAI Editorial Team",
+        "readTime": "4 min",
+        "date": "December 10, 2024",
+        "imageUrl": "assets/images/blog3.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "What is SPF?",
+              "type": "paragraph",
+              "text": "SPF (Sun Protection Factor) indicates the protection factor of sunscreen against UVB rays. SPF 30 increases your skin's natural protection time by 30 times."
+            },
+            {
+              "title": "SPF Values",
+              "type": "bullet_list",
+              "items": [
+                "SPF 15: 93% UVB protection",
+                "SPF 30: 97% UVB protection",
+                "SPF 50: 98% UVB protection"
+              ]
+            },
+            {
+              "title": "Choosing the Right Sunscreen",
+              "type": "bullet_list",
+              "items": [
+                "Broad spectrum protection (UVA + UVB)",
+                "Formula suitable for your skin type",
+                "Water-resistant feature",
+                "Minimum SPF 30"
+              ]
+            },
+            {
+              "title": "Application Tips",
+              "type": "bullet_list",
+              "items": [
+                "Apply 15-30 minutes before sun exposure",
+                "Reapply every 2 hours",
+                "Use generously",
+                "Use even on cloudy days"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "title": "10 Superfoods That Support Skin Health",
+        "excerpt": "Vitamin and mineral-rich foods you should consume to support your skin's health.",
+        "category": "Nutrition",
+        "author": "DermAI Editorial Team",
+        "readTime": "6 min",
+        "date": "December 8, 2024",
+        "imageUrl": "assets/images/blog4.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "Skin-Friendly Superfoods",
+              "type": "subtitle_paragraph",
+              "items": [
+                {
+                  "subtitle": "1. Avocado",
+                  "text": "Rich in vitamin E and healthy fats. Maintains skin's moisture balance."
+                },
+                {
+                  "subtitle": "2. Salmon",
+                  "text": "Omega-3 fatty acids reduce inflammation and nourish the skin."
+                },
+                {
+                  "subtitle": "3. Strawberries",
+                  "text": "Vitamin C supports collagen production."
+                },
+                {
+                  "subtitle": "4. Almonds",
+                  "text": "Vitamin E and zinc protect the skin."
+                },
+                {
+                  "subtitle": "5. Spinach",
+                  "text": "Full of vitamin A, iron, and antioxidants."
+                }
+              ]
+            },
+            {
+              "title": "Daily Recommendations",
+              "type": "bullet_list",
+              "items": [
+                "Drink at least 8 glasses of water daily",
+                "Choose colorful fruits and vegetables",
+                "Avoid processed foods",
+                "Limit sugar consumption"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": "Stress and Skin Health: The Impact of Mental Health",
+        "excerpt": "The negative effects of stress on the skin and ways to cope with stress.",
+        "category": "Lifestyle",
+        "author": "DermAI Editorial Team",
+        "readTime": "8 min",
+        "date": "December 5, 2024",
+        "imageUrl": "assets/images/blog5.jpg",
+        "isFeatured": false,
+        "content": {
+          "sections": [
+            {
+              "title": "Effects of Stress on Skin",
+              "type": "bullet_list",
+              "items": [
+                "Acne and pimple formation",
+                "Early signs of aging",
+                "Skin dryness and sensitivity",
+                "Itching and redness"
+              ]
+            },
+            {
+              "title": "Ways to Cope with Stress",
+              "type": "bullet_list",
+              "items": [
+                "Exercise regularly",
+                "Get adequate sleep (7-8 hours)",
+                "Meditation and breathing techniques",
+                "Spend time with hobbies you enjoy"
+              ]
+            },
+            {
+              "title": "Stress-Reducing Skincare",
+              "type": "bullet_list",
+              "items": [
+                "Apply soothing masks",
+                "Do facial massage",
+                "Use aromatherapy",
+                "Create a regular care routine"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+} 

@@ -1,0 +1,6 @@
+[2025-06-21 23:46:18] CREDITS DEBUG: === CREDITS REQUEST START ===
+[2025-06-21 23:46:18] CREDITS DEBUG: Request Method: GET
+[2025-06-21 23:46:18] CREDITS DEBUG: Request URI: /flutter/dermai_api/credits/credits_handler.php
+[2025-06-21 23:46:18] CREDITS DEBUG: Cleaned path: /get
+[2025-06-21 23:46:18] CREDITS DEBUG: Getting user credits
+[2025-06-21 23:46:18] CREDITS DEBUG: === CREDITS REQUEST END ===
