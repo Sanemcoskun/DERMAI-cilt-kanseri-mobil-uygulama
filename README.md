@@ -92,7 +92,7 @@ dependencies:
 ### Ana Servis (SkinAnalysisService)
 ```dart
 class SkinAnalysisService {
-  static const String baseUrl = 'http://193.164.7.249:8000';
+  static const String baseUrl = '...';
   
   Future<Map<String, dynamic>> analyzeImage(File imageFile, String region) async {
     var request = http.MultipartRequest('POST', Uri.parse('$baseUrl/predict'));
